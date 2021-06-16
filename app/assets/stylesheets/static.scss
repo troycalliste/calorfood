@@ -3095,8 +3095,8 @@ button {
 .ltwrap {
   width: 100%;
   position: relative;
-  display: flex;
-  justify-content: space-between;
+  // display: flex;
+  // justify-content: space-between;
   margin: 0 auto;
 }
 .cbatwoimg {
@@ -3120,7 +3120,7 @@ button {
 }
 .flwrap {
   position: relative;
-width: 55%
+width: 100%
 }
 .atextwrap img, .ltextwrap img {
   width:100%;
@@ -3131,7 +3131,7 @@ width: 55%
 
 
 .fl {
-  float: right;
+  // float: right;
 }
 .textwrap img {
     position: absolute;
